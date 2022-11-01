@@ -1,0 +1,11 @@
+a=(1,3,2,9)
+b=(10,6,12,11)
+print(a)
+print(b)
+c=a+b
+print(c)
+c1=sorted(c)     
+print(tuple(c1))
+print(c1[2])
+print(c1[-3:])
+print(len(c1))
