@@ -21,3 +21,18 @@ https://www.hackerrank.com/challenges/python-string-split-and-join?isFullScreen=
 https://www.hackerrank.com/challenges/whats-your-name?isFullScreen=true
 https://www.hackerrank.com/challenges/python-mutations?isFullScreen=true
 
+Day 4: List
+https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
+
+Day5 : Dict
+https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
+
+Set:
+https://www.hackerrank.com/challenges/py-set-add?isFullScreen=true
+
+Day 6: Functions
+https://www.hackerrank.com/challenges/input/problem?isFullScreen=true
+
+https://www.hackerrank.com/challenges/python-eval?isFullScreen=true
