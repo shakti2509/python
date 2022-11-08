@@ -1,0 +1,12 @@
+import prg1 as p
+print(p.add(5,6))
+print(p.sub(5,6))
+print(p.mul(6,6))
+print(p.div(5,6))
+print(p.pow(2,3))
+print(p.ipos(5))
+print(p.ineg(5))
+print(p.prime(5))
+print(p.prime(8))
+print(p.arm(153))
+print(p.arm(123))
